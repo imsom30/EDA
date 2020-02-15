@@ -1,2 +1,2 @@
-# som_rep
+# EDA
 A Data Science enthusiast
