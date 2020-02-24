@@ -1,2 +1,2 @@
 # EDA
-A Data Science enthusiast
+Exploratory Data Analysis/ Descriptive Statistics
